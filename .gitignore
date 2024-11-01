@@ -22,7 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
+src/App.css
 package.*
 vite.*
-src/App.css
